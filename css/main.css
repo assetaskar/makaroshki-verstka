@@ -91,6 +91,8 @@ body {
   height: 160px;
   background-color: #fff;
   font-size: 14px;
+  position: relative;
+  z-index: 2;
 }
 
 a {
